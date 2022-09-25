@@ -1,0 +1,17 @@
+Hi Flutter Developers,
+   Maybe it will help you.
+
+   Package: flutter_slidable
+   A Slidable Widget in flutter is a widget that let us add actions on your list items when we are sliding it to the left or to the right.
+   It is easy and simple to get started with the package.
+
+   Features : 
+   1 built-in dismiss animation.
+   we will be able to perform actions on dismissing the tile by using the dismissible property of the widget.
+   we will also be able to add multiple slide actions by using the SlidableAction property of the widget.
+   We will have Option to disable the slide effect easily
+   There are mainly four types of motion that we can give to the slide. Behind Motion, Drawer Motion, Scroll Motion, Stretch Motion.
+   
+   Here you can see a simple example.
+   Github Repo Link(For code)
+   https://github.com/AliHassanCheema/Flutter_Slidable-Example/tree/master
